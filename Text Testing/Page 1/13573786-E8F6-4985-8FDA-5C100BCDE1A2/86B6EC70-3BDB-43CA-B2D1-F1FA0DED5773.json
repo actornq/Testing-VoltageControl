@@ -28,13 +28,14 @@
             "tighteningFactorForTruncation": 0.05
           }
         },
-        "length": 15,
+        "length": 17,
         "location": 0
       }
     ],
-    "string": "VOLTAGE CONTROL"
+    "string": "VOLTAGE CONTROLER"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "86B6EC70-3BDB-43CA-B2D1-F1FA0DED5773",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -54,14 +55,15 @@
     "x": 0,
     "y": 183
   },
-  "glyphBounds": "{{55, 8}, {467, 36}}",
+  "glyphBounds": "{{22, 8}, {534, 36}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "VOLTAGE CONTROL",
+  "name": "VOLTAGE CONTROLER",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -69,9 +71,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -98,7 +100,8 @@
         }
       },
       "verticalAlignment": 1
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 2,
   "userInfo": {
