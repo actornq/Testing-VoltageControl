@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "IndustryInc-Base",
+              "name": "ArialMT",
               "size": 48
             }
           },
@@ -54,7 +54,7 @@
     "x": 0,
     "y": 183
   },
-  "glyphBounds": "{{78, 11}, {422, 36}}",
+  "glyphBounds": "{{55, 8}, {467, 36}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -85,7 +85,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "IndustryInc-Base",
+            "name": "ArialMT",
             "size": 48
           }
         },
