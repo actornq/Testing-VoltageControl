@@ -28,11 +28,11 @@
             "tighteningFactorForTruncation": 0.05
           }
         },
-        "length": 15,
+        "length": 12,
         "location": 0
       }
     ],
-    "string": "VOLTAGE CONTROL"
+    "string": "VOLT CONTROL"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "86B6EC70-3BDB-43CA-B2D1-F1FA0DED5773",
@@ -54,14 +54,14 @@
     "x": 0,
     "y": 183
   },
-  "glyphBounds": "{{55, 8}, {467, 36}}",
+  "glyphBounds": "{{104, 8}, {368, 36}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "VOLTAGE CONTROL",
+  "name": "VOLT CONTROL",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
