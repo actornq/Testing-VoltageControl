@@ -28,13 +28,22 @@
             "tighteningFactorForTruncation": 0.05
           }
         },
+<<<<<<< HEAD
         "length": 12,
         "location": 0
       }
     ],
     "string": "VOLT CONTROL"
+=======
+        "length": 17,
+        "location": 0
+      }
+    ],
+    "string": "VOLTAGE CONTROLER"
+>>>>>>> ee619788aecae6e27fc2e3366950900cb27965ae
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "86B6EC70-3BDB-43CA-B2D1-F1FA0DED5773",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -54,14 +63,23 @@
     "x": 0,
     "y": 183
   },
+<<<<<<< HEAD
   "glyphBounds": "{{104, 8}, {368, 36}}",
+=======
+  "glyphBounds": "{{22, 8}, {534, 36}}",
+  "isFixedToViewport": false,
+>>>>>>> ee619788aecae6e27fc2e3366950900cb27965ae
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
+<<<<<<< HEAD
   "name": "VOLT CONTROL",
+=======
+  "name": "VOLTAGE CONTROLER",
+>>>>>>> ee619788aecae6e27fc2e3366950900cb27965ae
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -69,9 +87,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -98,7 +116,8 @@
         }
       },
       "verticalAlignment": 1
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 2,
   "userInfo": {
