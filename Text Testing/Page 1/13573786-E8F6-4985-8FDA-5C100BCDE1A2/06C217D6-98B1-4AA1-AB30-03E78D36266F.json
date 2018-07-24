@@ -26,16 +26,17 @@
             "allowsDefaultTighteningForTruncation": 0,
             "paragraphSpacing": 10,
             "tighteningFactorForTruncation": 0.05
-          }
+          },
+          "textStyleVerticalAlignmentKey": 1
         },
-        "length": 15,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "VOLTAGE CONTROL"
+    "string": "Hello"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "do_objectID": "86B6EC70-3BDB-43CA-B2D1-F1FA0DED5773",
+  "do_objectID": "06C217D6-98B1-4AA1-AB30-03E78D36266F",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -49,19 +50,19 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 76,
-    "width": 578,
-    "x": 0,
-    "y": 183
+    "height": 53,
+    "width": 500,
+    "x": 39,
+    "y": 93
   },
-  "glyphBounds": "{{55, 8}, {467, 36}}",
+  "glyphBounds": "{{199, 8}, {104, 36}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "VOLTAGE CONTROL",
+  "name": "Hello",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -95,12 +96,13 @@
           "allowsDefaultTighteningForTruncation": 0,
           "paragraphSpacing": 10,
           "tighteningFactorForTruncation": 0.05
-        }
+        },
+        "textStyleVerticalAlignmentKey": 1
       },
-      "verticalAlignment": 1
+      "verticalAlignment": 0
     }
   },
-  "textBehaviour": 2,
+  "textBehaviour": 1,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

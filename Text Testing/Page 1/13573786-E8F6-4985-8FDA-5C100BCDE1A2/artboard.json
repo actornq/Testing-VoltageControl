@@ -7,7 +7,6 @@
     "green": 1,
     "red": 1
   },
-  "booleanOperation": 0,
   "do_objectID": "13573786-E8F6-4985-8FDA-5C100BCDE1A2",
   "exportOptions": {
     "_class": "exportOptions",
@@ -36,7 +35,6 @@
   },
   "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isFlowHome": false,
@@ -47,6 +45,10 @@
     {
       "class": "text",
       "id": "86B6EC70-3BDB-43CA-B2D1-F1FA0DED5773"
+    },
+    {
+      "class": "text",
+      "id": "06C217D6-98B1-4AA1-AB30-03E78D36266F"
     }
   ],
   "name": "Artboard",
@@ -58,10 +60,9 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
-    "windingRule": 1
+    "startDecorationType": 0
   },
   "verticalRulerData": {
     "_class": "rulerData",
