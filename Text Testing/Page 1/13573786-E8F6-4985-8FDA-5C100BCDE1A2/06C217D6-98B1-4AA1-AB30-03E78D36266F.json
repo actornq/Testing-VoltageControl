@@ -29,11 +29,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 5,
+        "length": 13,
         "location": 0
       }
     ],
-    "string": "Hello"
+    "string": "Hello Goodbye"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "06C217D6-98B1-4AA1-AB30-03E78D36266F",
@@ -55,14 +55,14 @@
     "x": 39,
     "y": 93
   },
-  "glyphBounds": "{{199, 8}, {104, 36}}",
+  "glyphBounds": "{{95, 8}, {312, 46}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Hello",
+  "name": "Hello Goodbye",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
