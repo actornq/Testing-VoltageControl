@@ -29,11 +29,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 15,
+        "length": 13,
         "location": 0
       }
     ],
-    "string": "Goodbye Friends"
+    "string": "Goodbye Jerks"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "06C217D6-98B1-4AA1-AB30-03E78D36266F",
@@ -55,14 +55,14 @@
     "x": 39,
     "y": 93
   },
-  "glyphBounds": "{{68, 8}, {365, 46}}",
+  "glyphBounds": "{{91, 8}, {319, 46}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Goodbye Friends",
+  "name": "Goodbye Jerks",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
