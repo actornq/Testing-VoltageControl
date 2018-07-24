@@ -29,19 +29,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-<<<<<<< HEAD
-        "length": 7,
+        "length": 13,
         "location": 0
       }
     ],
-    "string": "Goodbye"
-=======
-        "length": 4,
-        "location": 0
-      }
-    ],
-    "string": "Hell"
->>>>>>> ec4c26e2409e1a0d50f24e6bd797a7a366cbd46b
+    "string": "Goodbye World"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "06C217D6-98B1-4AA1-AB30-03E78D36266F",
@@ -63,22 +55,14 @@
     "x": 39,
     "y": 93
   },
-<<<<<<< HEAD
-  "glyphBounds": "{{155, 8}, {191, 46}}",
-=======
-  "glyphBounds": "{{212, 8}, {76, 36}}",
->>>>>>> ec4c26e2409e1a0d50f24e6bd797a7a366cbd46b
+  "glyphBounds": "{{86, 8}, {327, 46}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-<<<<<<< HEAD
-  "name": "Goodbye",
-=======
-  "name": "Hell",
->>>>>>> ec4c26e2409e1a0d50f24e6bd797a7a366cbd46b
+  "name": "Goodbye World",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
